@@ -6,7 +6,7 @@ To build the program use:
 
 To lauch the program:
 
- ---> ./my_rpg map/map.txt
+ ---> ./my_rpg map.txt
 
 
 CSFML stable version is required to build
